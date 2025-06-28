@@ -1,0 +1,19 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #11111b;
+
+  /* Optional: Set base font size */ 
+}
+
+/* Apply consistent font and spacing to common text elements */
+
+
+
+
+
+
+@media (prefers-color-scheme: light) {
+  
+}
