@@ -27,7 +27,7 @@ const AboutMeSection = () => {
                     </p>
 
                     <a
-                        href="https://drive.google.com/file/d/1tuIiYBxF9cb9rgDJlO4YPW2G-8oWwbq3/view"
+                        href="https://drive.google.com/file/d/1wViAuGZ7owiyzbwbaXPRwsyCcMFb8MKx/view?usp=sharing"
                         className='w-[55px] px-4 py-3 hover:cursor-pointer overflow-hidden bg-linear-to-r from-[#71cbff] to-[#8000ff] rounded-3xl transition-all hover:w-[170px] duration-300 ease-linear'
                     >
                         <div className='flex items-center gap-5'>
