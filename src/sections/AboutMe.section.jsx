@@ -43,6 +43,7 @@ const AboutMeSection = () => {
                 <div className='flex justify-center md:justify-end mt-6 md:mt-0'>
                     <Tilt className='p-3 rounded-xl bg-[#1a1a2b] mr-0 md:mr-30' options={{ max: 45, scale: 1, speed: 450 }}>
                         <img
+                            alt="Image currently unavailable"
                             src='/portfolio_pic.JPG'
                             className='rounded-xl object-top w-[200px] h-[200px] md:w-100 md:h-100'
                         />

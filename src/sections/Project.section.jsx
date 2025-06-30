@@ -38,7 +38,7 @@ const ProjectSection = () => {
                     <div className="h-[180px] md:h-[200px]">
                       <img
                         src={project.imageUrl}
-                        alt="Project"
+                        alt="Image currently unavailable"
                         className="rounded-xl w-full h-full object-cover"
                       />
                     </div>
