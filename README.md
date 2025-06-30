@@ -30,7 +30,7 @@ I’m **Ganesh Sudhanagunta**, a passionate Full Stack Web Developer skilled in 
 ## 📬 Contact Me
 
 - **Email**: ganeshsudhanagunta68@gmail.com  
-- **LinkedIn**: [Ganesh Sudhanagunta](https://www.linkedin.com/in/ganesh-s-95b848273)  
+- **LinkedIn**: [Ganesh Sudhanagunta](www.linkedin.com/in/ganesh-sudhanagunta-95b848273)  
 - **GitHub**: [@Ganesh6811](https://github.com/Ganesh6811)
 
 ## 📌 Run Locally
